@@ -4,7 +4,7 @@ import type { PageParams } from "@/types/next";
 import { ImageResponse } from "next/og";
 import { PostSlugMetadataImage } from "./PostSlugMetadataImage";
 
-export const alt = "Codeline information images";
+export const alt = "website information images";
 export const size = {
   width: 1200,
   height: 630,

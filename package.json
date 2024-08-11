@@ -1,7 +1,7 @@
 {
-  "name": "nowts",
+  "name": "basets",
   "version": "0.1.0",
-  "nowts-version": "1.0.0",
+  "basets-version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",

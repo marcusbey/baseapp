@@ -39,7 +39,7 @@ export const SignInProviders = () => {
         <AlertDescription>
           Please go to{" "}
           <Typography variant="link" as={Link} href="">
-            the Now.TS documentation
+            the base.ts documentation
           </Typography>{" "}
           to resolve the issue.
         </AlertDescription>

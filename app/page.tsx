@@ -196,9 +196,9 @@ export default function HomePage() {
               "Yes, with Threader, you can schedule your threads for a specific time, allowing you to maintain a consistent online presence without the need to manually post every day.",
           },
           {
-            question: "What is the Now.TS project?",
+            question: "What is the base.ts project?",
             answer:
-              "Now.TS is a new project announced on our platform that enables users to create professional Next.js applications in days, streamlining the development process.",
+              "base.ts is a new project announced on our platform that enables users to create professional Next.js applications in days, streamlining the development process.",
           },
           {
             question: "How can I get more followers?",

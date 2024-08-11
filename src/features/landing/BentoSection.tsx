@@ -51,12 +51,12 @@ const Skeleton1 = () => {
       <motion.div className="flex flex-row items-start gap-2 rounded-2xl border border-border bg-background p-3">
         <img
           alt="avatar"
-          src="https://melvynx.com/_next/image?url=%2Fimages%2Fmy-face.png&w=828&q=75"
+          src="https://website.com/_next/image?url=%2Fimages%2Fmy-face.png&w=828&q=75"
           className="size-6 shrink-0 rounded-full"
         />
         <div>
           <p className="text-xs text-neutral-500">
-            Create a Thread to announce Now.ts
+            Create a Thread to announce base.ts
           </p>
         </div>
       </motion.div>
@@ -65,7 +65,7 @@ const Skeleton1 = () => {
         className="flex flex-row items-start justify-end gap-2 rounded-2xl border border-border bg-background p-3"
       >
         <p className="text-xs text-neutral-500">
-          Today I announced my new project, Now.TS, the perfect way to create
+          Today I announced my new project, base.ts, the perfect way to create
           professional Next.js application in days.
         </p>
         <div className="size-6 shrink-0 rounded-full bg-gradient-to-r from-pink-500 to-violet-500" />
@@ -227,7 +227,7 @@ const Skeleton5 = () => {
         className="flex flex-row items-start gap-2 rounded-2xl border border-border bg-background p-3"
       >
         <img
-          src="https://melvynx.com/_next/image?url=%2Fimages%2Fmy-face.png&w=828&q=75"
+          src="https://website.com/_next/image?url=%2Fimages%2Fmy-face.png&w=828&q=75"
           alt="avatar"
           height="100"
           width="100"
